@@ -1,1 +1,8 @@
-{"name":"Fördercheck Pro","version":"1.1.1","download_url":"https://raw.githubusercontent.com/senergiesenergieberatung-prog/foerdercheck_update/main/foerdercheck-pro.zip","homepage":"https://s-energies.de/foerdercheck-fuer-energieberater/","requires_php":"7.4","changelog":"<p>1.1.1: Automatische Updates.</p>"}
+{
+  "name": "Fördercheck Pro",
+  "version": "1.2.0",
+  "download_url": "https://raw.githubusercontent.com/senergiesenergieberatung-prog/foerdercheck_update/main/foerdercheck-pro.zip",
+  "homepage": "https://s-energies.de/foerdercheck-fuer-energieberater/",
+  "requires_php": "7.4",
+  "changelog": "<p>1.2.0: Hinweis-Streifen [foerdercheck_streifen] für die Startseite.</p><p>1.1.1: Automatische Updates.</p>"
+}
