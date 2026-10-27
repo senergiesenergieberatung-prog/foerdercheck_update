@@ -1,9 +1,9 @@
 {
   "name": "Fördercheck Pro",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "download_url": "https://raw.githubusercontent.com/senergiesenergieberatung-prog/foerdercheck_update/main/foerdercheck-pro.zip",
   "homepage": "https://s-energies.de/foerdercheck-fuer-energieberater/",
   "requires_php": "7.4",
-  "changelog": "<p>1.5.0: Auswahl „Keine Maßnahmen an der Gebäudehülle“, iSFP-Status (vorhanden oder geplant), Förderung von Fachplanung und Baubegleitung.</p><p>1.4.1: Klima- und Einkommensbonus bei mehreren Wohneinheiten nur auf den Anteil der selbst genutzten Wohnung (förderfähige Kosten / Wohneinheiten).</p><p>1.4.0: Ergebnis als PDF mit Ihrem Logo, Kopie des Ergebnisses per E-Mail an Anfragende.</p><p>1.3.0: Schnellrechner im Hinweis-Streifen, Rechner übernimmt Maßnahme und Kosten aus dem Streifen.</p><p>1.2.0: Hinweis-Streifen [foerdercheck_streifen] für die Startseite.</p><p>1.1.1: Automatische Updates.</p>",
+  "changelog": "<p>1.5.1: Holz- und Pelletheizungen als alte Heizung (Klimabonus ab 20 Jahren), Wärmepumpe ersetzt Wärmepumpe wird wieder berechnet, aktuelle Hinweise zu den Änderungen ab 2027 (Wärmepumpen, Worst-Performing-Building), Hinweise zu den Kostengrenzen.</p><p>1.5.0: Auswahl „Keine Maßnahmen an der Gebäudehülle“, iSFP-Status (vorhanden oder geplant), Förderung von Fachplanung und Baubegleitung.</p><p>1.4.1: Klima- und Einkommensbonus bei mehreren Wohneinheiten nur auf den Anteil der selbst genutzten Wohnung (förderfähige Kosten / Wohneinheiten).</p><p>1.4.0: Ergebnis als PDF mit Ihrem Logo, Kopie des Ergebnisses per E-Mail an Anfragende.</p><p>1.3.0: Schnellrechner im Hinweis-Streifen, Rechner übernimmt Maßnahme und Kosten aus dem Streifen.</p><p>1.2.0: Hinweis-Streifen [foerdercheck_streifen] für die Startseite.</p><p>1.1.1: Automatische Updates.</p>",
   "tested": "7.1"
 }
